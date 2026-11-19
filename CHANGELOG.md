@@ -1,2 +1,2 @@
 ## Changelog   
-* 77bf9d8e79afd238fc757527ba343e5684e5e213 feat: [PDO-1312] provider에 AWS web identity 인증(assume_role_with_web_identity) 추가 (!2)
+* 6c83112caf5c9f53b901e4b5ebf6d659b6320978 feat: [PDO-1312] provider kubernetes block에 exec 인증 추가 (!3)
