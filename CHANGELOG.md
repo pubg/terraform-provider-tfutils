@@ -1,2 +1,2 @@
 ## Changelog   
-* 3fd495d79f99372cd2a44a0a92842e1feba57ae9 feat: [PDO-1312] 종료된 node의 vpc-cni ENI를 지우는 tfutils_aws_eni_released_wait_and_delete 추가
+* 36c7b1014f500137d73b6869298a52bf31017a6b chore: [PDO-1454] version 변수가 릴리스 때 GoReleaser ldflags로 채워진다는 주석 추가 (!6)
